@@ -16,3 +16,6 @@ p {
   font-family: comicsans;
   font-size: 20px;
 }
+img {
+  margin: 0 auto;
+}
